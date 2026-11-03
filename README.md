@@ -4,7 +4,7 @@
 [![CV Español](https://img.shields.io/badge/CV%20(ES)-Descargar%20PDF-10B981?style=for-the-badge)](https://ezequieljaramillo.github.io/assets/cv/CV_Ezequiel_Jaramillo_AI_Data_Science_ES.pdf)
 [![Resume English](https://img.shields.io/badge/Resume%20(EN)-Download%20PDF-3B82F6?style=for-the-badge)](https://ezequieljaramillo.github.io/assets/cv/CV_Ezequiel_Jaramillo_AI_Data_Science_EN.pdf)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Ezequiel%20Jaramillo-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ezequiel-jaramillo-454956227)
-[![Email](https://img.shields.io/badge/Email-jaramilloezequiel21%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jaramilloezequiel21@gmail.com)
+[![Email](https://img.shields.io/badge/Email-jaramilloezequiel2114%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jaramilloezequiel2114@gmail.com)
 [![MDPI Paper](https://img.shields.io/badge/MDPI%20Coatings-DOI%2010.3390%2Fcoatings15060645-8B5CF6?style=for-the-badge)](https://doi.org/10.3390/coatings15060645)
 
 > **Disponible para Proyectos Freelance, Consultoría Técnica y Startups (Remoto Global)**  
@@ -50,5 +50,5 @@
 ### Contacto Directo para Proyectos y Consultoría
 
 - **Portafolio Web Interactivo:** [https://ezequieljaramillo.github.io](https://ezequieljaramillo.github.io)
-- **Correo Electrónico:** [jaramilloezequiel21@gmail.com](mailto:jaramilloezequiel21@gmail.com)
+- **Correo Electrónico:** [jaramilloezequiel2114@gmail.com](mailto:jaramilloezequiel2114@gmail.com)
 - **LinkedIn:** [linkedin.com/in/ezequiel-jaramillo-454956227](https://www.linkedin.com/in/ezequiel-jaramillo-454956227)
