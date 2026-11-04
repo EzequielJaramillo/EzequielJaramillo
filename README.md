@@ -1,6 +1,7 @@
 # Ezequiel Jaramillo | AI, Computer Vision & Data Science Engineer
 
 [![Portfolio Website](https://img.shields.io/badge/Portafolio%20Web-ezequieljaramillo.github.io-06B6D4?style=for-the-badge)](https://ezequieljaramillo.github.io)
+[![Discovery Call](https://img.shields.io/badge/Discovery%20Call%20(30%20min)-Agendar%20en%20Calendly-006BFF?style=for-the-badge&logo=calendly&logoColor=white)](https://calendly.com/jaramilloezequiel2114/30min)
 [![CV Español](https://img.shields.io/badge/CV%20(ES)-Descargar%20PDF-10B981?style=for-the-badge)](https://ezequieljaramillo.github.io/assets/cv/CV_Ezequiel_Jaramillo_AI_Data_Science_ES.pdf)
 [![Resume English](https://img.shields.io/badge/Resume%20(EN)-Download%20PDF-3B82F6?style=for-the-badge)](https://ezequieljaramillo.github.io/assets/cv/CV_Ezequiel_Jaramillo_AI_Data_Science_EN.pdf)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Ezequiel%20Jaramillo-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ezequiel-jaramillo-454956227)
@@ -50,5 +51,6 @@
 ### Contacto Directo para Proyectos y Consultoría
 
 - **Portafolio Web Interactivo:** [https://ezequieljaramillo.github.io](https://ezequieljaramillo.github.io)
+- **Agendar Discovery Call (30 min):** [https://calendly.com/jaramilloezequiel2114/30min](https://calendly.com/jaramilloezequiel2114/30min)
 - **Correo Electrónico:** [jaramilloezequiel2114@gmail.com](mailto:jaramilloezequiel2114@gmail.com)
 - **LinkedIn:** [linkedin.com/in/ezequiel-jaramillo-454956227](https://www.linkedin.com/in/ezequiel-jaramillo-454956227)
